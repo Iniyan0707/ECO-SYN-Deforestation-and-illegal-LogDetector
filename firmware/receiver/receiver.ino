@@ -17,7 +17,7 @@ HardwareSerial gsmSerial(1);
 #define GSM_TX_PIN 17
 
 const String OWNER_PHONE_NUMBER =
-  "+918807275985";
+  "YOUR PHONE NUMBER";
 
 // ---------------- OUTPUTS ----------------
 
